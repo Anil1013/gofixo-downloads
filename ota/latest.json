@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "gitCommitHash": "6c80e761fd0cdd37b5186ceeb2151eb606fe10f6",
+  "gitCommitHash": "dd2d377cc4fe8aedfbe29080ba35f7a0912b519a",
   "message": "Automatic Gofixo OTA update",
   "patches": {
     "arm64-v8a": {
-      "version": "ota-6c80e761fd0cdd37b5186ceeb2151eb606fe10f6",
-      "filename": "patch-6c80e761fd0cdd37b5186ceeb2151eb606fe10f6.zip",
-      "md5": "12d220b18d145c8d4a1db64178395552",
+      "version": "ota-dd2d377cc4fe8aedfbe29080ba35f7a0912b519a",
+      "filename": "patch-dd2d377cc4fe8aedfbe29080ba35f7a0912b519a.zip",
+      "md5": "a1fc45971ced14cdc3990b49763db9c8",
       "signature": "",
       "targetVersionCode": 1000046
     },
     "armeabi-v7a": {
-      "version": "ota-6c80e761fd0cdd37b5186ceeb2151eb606fe10f6",
-      "filename": "patch-6c80e761fd0cdd37b5186ceeb2151eb606fe10f6.zip",
-      "md5": "12d220b18d145c8d4a1db64178395552",
+      "version": "ota-dd2d377cc4fe8aedfbe29080ba35f7a0912b519a",
+      "filename": "patch-dd2d377cc4fe8aedfbe29080ba35f7a0912b519a.zip",
+      "md5": "a1fc45971ced14cdc3990b49763db9c8",
       "signature": "",
       "targetVersionCode": 1000046
     },
     "x86_64": {
-      "version": "ota-6c80e761fd0cdd37b5186ceeb2151eb606fe10f6",
-      "filename": "patch-6c80e761fd0cdd37b5186ceeb2151eb606fe10f6.zip",
-      "md5": "12d220b18d145c8d4a1db64178395552",
+      "version": "ota-dd2d377cc4fe8aedfbe29080ba35f7a0912b519a",
+      "filename": "patch-dd2d377cc4fe8aedfbe29080ba35f7a0912b519a.zip",
+      "md5": "a1fc45971ced14cdc3990b49763db9c8",
       "signature": "",
       "targetVersionCode": 1000046
     }
