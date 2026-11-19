@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "gitCommitHash": "1064b7d51fc865a4131d6ee17a28138eee570a7b",
+  "message": "Automatic Gofixo OTA update",
+  "patches": {
+    "arm64-v8a": {
+      "version": "ota-1064b7d51fc865a4131d6ee17a28138eee570a7b",
+      "filename": "patch-1064b7d51fc865a4131d6ee17a28138eee570a7b.zip",
+      "md5": "a6c6840945074bafc125915f1a666c2b",
+      "signature": "",
+      "targetVersionCode": 1000046
+    },
+    "armeabi-v7a": {
+      "version": "ota-1064b7d51fc865a4131d6ee17a28138eee570a7b",
+      "filename": "patch-1064b7d51fc865a4131d6ee17a28138eee570a7b.zip",
+      "md5": "a6c6840945074bafc125915f1a666c2b",
+      "signature": "",
+      "targetVersionCode": 1000046
+    },
+    "x86_64": {
+      "version": "ota-1064b7d51fc865a4131d6ee17a28138eee570a7b",
+      "filename": "patch-1064b7d51fc865a4131d6ee17a28138eee570a7b.zip",
+      "md5": "a6c6840945074bafc125915f1a666c2b",
+      "signature": "",
+      "targetVersionCode": 1000046
+    }
+  }
+}
