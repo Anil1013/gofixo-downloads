@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "gitCommitHash": "d5b0a8d03544d54352f0e23ee23eb4fc2503b98d",
+  "gitCommitHash": "6766fbf26b9ca467f5103c0ce81da1cf236307da",
   "message": "Gofixo 1.0.4 migration update",
   "patches": {
     "arm64-v8a": {
-      "version": "migrate-1000004-d5b0a8d03544d54352f0e23ee23eb4fc2503b98d",
-      "filename": "patch-1000004-d5b0a8d03544d54352f0e23ee23eb4fc2503b98d.zip",
-      "md5": "f3fc20f3588f05ea5839f32ccfb470a4",
+      "version": "migrate-1000004-6766fbf26b9ca467f5103c0ce81da1cf236307da",
+      "filename": "patch-1000004-6766fbf26b9ca467f5103c0ce81da1cf236307da.zip",
+      "md5": "370eb2c94725ace569851524f608dbbf",
       "signature": "",
       "targetVersionCode": 1000004
     },
     "armeabi-v7a": {
-      "version": "migrate-1000004-d5b0a8d03544d54352f0e23ee23eb4fc2503b98d",
-      "filename": "patch-1000004-d5b0a8d03544d54352f0e23ee23eb4fc2503b98d.zip",
-      "md5": "f3fc20f3588f05ea5839f32ccfb470a4",
+      "version": "migrate-1000004-6766fbf26b9ca467f5103c0ce81da1cf236307da",
+      "filename": "patch-1000004-6766fbf26b9ca467f5103c0ce81da1cf236307da.zip",
+      "md5": "370eb2c94725ace569851524f608dbbf",
       "signature": "",
       "targetVersionCode": 1000004
     },
     "x86_64": {
-      "version": "migrate-1000004-d5b0a8d03544d54352f0e23ee23eb4fc2503b98d",
-      "filename": "patch-1000004-d5b0a8d03544d54352f0e23ee23eb4fc2503b98d.zip",
-      "md5": "f3fc20f3588f05ea5839f32ccfb470a4",
+      "version": "migrate-1000004-6766fbf26b9ca467f5103c0ce81da1cf236307da",
+      "filename": "patch-1000004-6766fbf26b9ca467f5103c0ce81da1cf236307da.zip",
+      "md5": "370eb2c94725ace569851524f608dbbf",
       "signature": "",
       "targetVersionCode": 1000004
     }
